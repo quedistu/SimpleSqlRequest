@@ -2,4 +2,4 @@ var hello = "hello world"
 alert(hello)
 alert("coucou")
 alert("nouvelle modif")
-alert("C'est bientôt fini")
+alert("encore une modif et c'est fini")
